@@ -1,0 +1,19 @@
+whois returns:
+updated_date
+status
+name
+dnssec
+city
+expiration_date
+zipcode
+domain_name
+country
+whois_server
+state
+registrar
+referral_url
+address
+name_servers
+org
+creation_date
+emails
